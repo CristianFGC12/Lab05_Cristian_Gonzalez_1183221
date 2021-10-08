@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Usuario\source\repos\Lab05_Cristian_Gonzalez_1183221\Lab05_Cristian_Gonzalez_1183221\MyForm.h(762,27): warning C4101: 'e': variable local sin referencia
+C:\Users\Usuario\source\repos\Lab05_Cristian_Gonzalez_1183221\Lab05_Cristian_Gonzalez_1183221\MyForm.h(784,23): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\Usuario\source\repos\Lab05_Cristian_Gonzalez_1183221\Lab05_Cristian_Gonzalez_1183221\MyForm.h(838,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Cola.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab05_Cristian_Gonzalez_1183221.vcxproj -> C:\Users\Usuario\source\repos\Lab05_Cristian_Gonzalez_1183221\Debug\Lab05_Cristian_Gonzalez_1183221.exe
